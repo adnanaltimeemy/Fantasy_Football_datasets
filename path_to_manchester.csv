@@ -1,0 +1,18 @@
+step,location,latitude,longitude
+1,Birmingham,52.4862,-1.8904
+2,Stoke-on-Trent,53.0027,-2.1794
+3,Macclesfield,53.2587,-2.1250
+4,Stockport,53.4084,-2.1495
+5,Manchester,53.4808,-2.2426
+stop_number,station,arrival_time,departure_time
+1,London Euston,08:00,08:05
+2,Milton Keynes Central,08:35,08:37
+3,Crewe,09:20,09:22
+4,Stockport,09:45,09:47
+5,Manchester Piccadilly,09:55,--
+node_id,city,previous_node,distance_km
+1,Birmingham,NULL,0
+2,Stoke-on-Trent,1,70
+3,Macclesfield,2,35
+4,Stockport,3,20
+5,Manchester,4,10

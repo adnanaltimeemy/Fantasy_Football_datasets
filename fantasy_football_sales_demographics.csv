@@ -1,0 +1,501 @@
+team_id,sales_gbp,profit_margin_pct,budget_category,region,age_group,notes
+Team_001,23477.0,24.26,Up to £250,London,18-24,Excellent youth engagement program
+Team_002,19032.15,34.09,Up to £100,North West,<18,Lost several matches due to injuries
+Team_003,24533.82,1.01,Up to £500,North West,18-24,Lost several matches due to injuries
+Team_004,30661.21,20.63,Up to £500,North West,25-34,Poor start but recovered nicely
+Team_005,18360.93,8.49,Up to £100,Other UK,35-44,Season ended with record profit
+Team_006,18361.04,10.13,£500+,London,25-34,Lost several matches due to injuries
+Team_007,31054.49,9.08,Up to £100,Greater Manchester,25-34,Strong local support from Manchester area
+Team_008,25372.04,6.36,Up to £500,North West,18-24,"High ticket sales, but costs were too high"
+Team_009,16713.68,15.49,Up to £500,Greater Manchester,45+,Poor start but recovered nicely
+Team_010,23797.92,6.69,£500+,London,25-34,"Great performance during finals, fans loved it"
+Team_011,16756.08,17.7,Up to £500,Greater Manchester,18-24,New sponsorship boosted revenue
+Team_012,16739.89,14.5,£500+,North West,25-34,Poor start but recovered nicely
+Team_013,21693.74,12.61,Up to £250,North West,18-24,Poor start but recovered nicely
+Team_014,6607.04,5.92,£500+,North West,25-34,Excellent youth engagement program
+Team_015,7925.58,9.23,Up to £100,Greater Manchester,25-34,Marketing spend was lower than expected
+Team_016,16063.99,22.55,£500+,London,35-44,Season ended with record profit
+Team_017,12910.18,20.01,Up to £500,North West,25-34,Marketing spend was lower than expected
+Team_018,22199.73,5.22,£500+,North West,35-44,Strong local support from Manchester area
+Team_019,13643.83,15.99,Up to £500,North West,45+,"Great performance during finals, fans loved it"
+Team_020,10113.87,22.51,Up to £500,Other UK,18-24,Excellent youth engagement program
+Team_021,30259.54,-1.69,Up to £500,North West,18-24,"Great performance during finals, fans loved it"
+Team_022,18419.57,20.43,Up to £500,London,25-34,Strong local support from Manchester area
+Team_023,20472.7,8.37,Up to £100,Greater Manchester,25-34,Marketing spend was lower than expected
+Team_024,10026.76,20.71,Up to £100,Greater Manchester,25-34,Poor start but recovered nicely
+Team_025,16189.32,7.37,Up to £250,North West,45+,Lost several matches due to injuries
+Team_026,20776.46,-3.05,Up to £250,North West,35-44,Lost several matches due to injuries
+Team_027,11943.04,-1.28,£500+,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_028,22629.89,15.48,Up to £250,London,25-34,New sponsorship boosted revenue
+Team_029,15795.53,17.6,£500+,Greater Manchester,35-44,Season ended with record profit
+Team_030,17958.14,5.96,Up to £250,Greater Manchester,45+,Strong local support from Manchester area
+Team_031,15788.05,21.39,Up to £250,North West,35-44,New sponsorship boosted revenue
+Team_032,32965.95,-1.62,£500+,Other UK,<18,Season ended with record profit
+Team_033,19905.52,14.34,Up to £500,London,25-34,New sponsorship boosted revenue
+Team_034,12596.02,2.89,Up to £500,North West,18-24,Marketing spend was lower than expected
+Team_035,25757.81,8.48,Up to £500,Other UK,18-24,Season ended with record profit
+Team_036,11454.09,15.47,Up to £500,Greater Manchester,18-24,Marketing spend was lower than expected
+Team_037,21462.05,6.4,Up to £250,Greater Manchester,25-34,Poor start but recovered nicely
+Team_038,6282.31,11.15,£500+,London,35-44,Excellent youth engagement program
+Team_039,10702.7,25.06,£500+,South East,18-24,Marketing spend was lower than expected
+Team_040,21378.03,9.23,Up to £500,Greater Manchester,25-34,Lost several matches due to injuries
+Team_041,25169.27,23.36,Up to £250,North West,25-34,New sponsorship boosted revenue
+Team_042,21199.58,3.7,Up to £500,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_043,19190.46,20.3,Up to £100,Other UK,18-24,"High ticket sales, but costs were too high"
+Team_044,17892.27,29.42,Up to £100,North West,25-34,Season ended with record profit
+Team_045,9650.35,-9.72,Up to £250,Greater Manchester,35-44,Strong local support from Manchester area
+Team_046,14961.09,7.03,Up to £500,Greater Manchester,18-24,Merchandise overwhelmed warehouse stock
+Team_047,16775.53,20.77,£500+,Greater Manchester,18-24,Lost several matches due to injuries
+Team_048,27399.86,12.97,Up to £500,Greater Manchester,25-34,Marketing spend was lower than expected
+Team_049,22405.33,18.71,Up to £500,Other UK,45+,Excellent youth engagement program
+Team_050,7658.72,8.96,Up to £500,North West,35-44,Poor start but recovered nicely
+Team_051,22268.59,15.87,Up to £250,North West,35-44,"High ticket sales, but costs were too high"
+Team_052,17304.42,13.44,Up to £250,North West,25-34,"Great performance during finals, fans loved it"
+Team_053,15261.55,26.68,£500+,South East,25-34,Merchandise overwhelmed warehouse stock
+Team_054,24281.73,17.54,Up to £100,Greater Manchester,<18,Excellent youth engagement program
+Team_055,27217.0,18.38,£500+,North West,25-34,"Great performance during finals, fans loved it"
+Team_056,26518.96,10.88,Up to £500,South East,45+,"High ticket sales, but costs were too high"
+Team_057,14125.48,10.12,Up to £500,South East,25-34,Strong local support from Manchester area
+Team_058,17835.51,10.67,Up to £500,South East,35-44,Strong local support from Manchester area
+Team_059,22318.84,18.94,Up to £500,Other UK,35-44,New sponsorship boosted revenue
+Team_060,26828.82,10.79,£500+,North West,18-24,"High ticket sales, but costs were too high"
+Team_061,16645.78,17.9,£500+,London,45+,"High ticket sales, but costs were too high"
+Team_062,18700.39,35.75,Up to £500,Greater Manchester,18-24,"Great performance during finals, fans loved it"
+Team_063,12255.66,23.71,Up to £250,South East,25-34,Excellent youth engagement program
+Team_064,11626.55,11.74,Up to £500,London,18-24,Season ended with record profit
+Team_065,25687.68,27.01,£500+,London,<18,"Great performance during finals, fans loved it"
+Team_066,29493.68,10.92,Up to £250,Greater Manchester,25-34,Poor start but recovered nicely
+Team_067,19495.93,-5.38,Up to £500,North West,18-24,Strong local support from Manchester area
+Team_068,27024.73,4.92,Up to £500,Greater Manchester,25-34,Strong local support from Manchester area
+Team_069,22531.45,-3.71,Up to £500,Other UK,25-34,New sponsorship boosted revenue
+Team_070,15484.16,11.48,Up to £100,Other UK,<18,Poor start but recovered nicely
+Team_071,22529.77,15.18,Up to £500,North West,18-24,Strong local support from Manchester area
+Team_072,30766.26,31.76,£500+,North West,25-34,"Great performance during finals, fans loved it"
+Team_073,19749.22,18.27,Up to £250,North West,25-34,Poor start but recovered nicely
+Team_074,30952.51,12.81,Up to £250,London,35-44,"Great performance during finals, fans loved it"
+Team_075,1661.78,23.29,£500+,South East,35-44,Season ended with record profit
+Team_076,25753.32,-7.11,Up to £250,North West,35-44,Season ended with record profit
+Team_077,20609.33,17.36,£500+,Greater Manchester,35-44,Strong local support from Manchester area
+Team_078,17906.95,22.71,Up to £500,South East,25-34,Strong local support from Manchester area
+Team_079,20642.33,0.21,Up to £250,London,35-44,Excellent youth engagement program
+Team_080,6087.02,26.44,£500+,Greater Manchester,18-24,Season ended with record profit
+Team_081,18462.3,18.38,Up to £500,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_082,22499.79,10.85,Up to £500,Greater Manchester,35-44,Merchandise overwhelmed warehouse stock
+Team_083,30345.26,21.33,Up to £250,North West,25-34,New sponsorship boosted revenue
+Team_084,16372.11,37.71,Up to £500,Greater Manchester,35-44,Season ended with record profit
+Team_085,14340.54,16.82,Up to £250,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_086,16487.7,17.48,Up to £250,South East,35-44,"Great performance during finals, fans loved it"
+Team_087,26407.81,10.41,£500+,Greater Manchester,45+,Lost several matches due to injuries
+Team_088,22301.26,6.5,Up to £250,London,25-34,Poor start but recovered nicely
+Team_089,16291.68,23.3,Up to £500,North West,25-34,Marketing spend was lower than expected
+Team_090,23592.87,6.44,Up to £250,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_091,20679.54,15.72,£500+,North West,25-34,Strong local support from Manchester area
+Team_092,26780.51,10.22,Up to £100,North West,25-34,New sponsorship boosted revenue
+Team_093,15085.63,19.79,£500+,London,35-44,Marketing spend was lower than expected
+Team_094,17706.36,18.34,Up to £500,Other UK,35-44,"High ticket sales, but costs were too high"
+Team_095,17255.24,25.38,Up to £250,North West,25-34,New sponsorship boosted revenue
+Team_096,9755.4,9.9,Up to £100,Greater Manchester,18-24,"High ticket sales, but costs were too high"
+Team_097,22072.84,12.3,Up to £250,South East,25-34,Season ended with record profit
+Team_098,21827.39,5.21,Up to £500,North West,18-24,"High ticket sales, but costs were too high"
+Team_099,20035.79,10.56,Up to £250,Greater Manchester,35-44,"High ticket sales, but costs were too high"
+Team_100,18357.89,18.77,£500+,London,25-34,Excellent youth engagement program
+Team_101,10092.4,22.57,Up to £500,Greater Manchester,18-24,Excellent youth engagement program
+Team_102,17055.48,5.78,Up to £250,North West,<18,Excellent youth engagement program
+Team_103,17601.0,23.7,Up to £500,Greater Manchester,25-34,Season ended with record profit
+Team_104,14384.06,28.56,Up to £500,London,25-34,Marketing spend was lower than expected
+Team_105,18871.0,19.13,Up to £250,Greater Manchester,25-34,New sponsorship boosted revenue
+Team_106,22828.36,33.77,Up to £250,North West,18-24,New sponsorship boosted revenue
+Team_107,33203.3,7.26,Up to £100,London,25-34,Strong local support from Manchester area
+Team_108,21222.04,2.55,Up to £500,North West,25-34,Excellent youth engagement program
+Team_109,21802.85,-2.79,Up to £500,London,35-44,Season ended with record profit
+Team_110,19478.88,29.96,Up to £500,North West,25-34,Strong local support from Manchester area
+Team_111,6568.6,21.54,£500+,Other UK,25-34,Poor start but recovered nicely
+Team_112,19814.4,14.44,£500+,Greater Manchester,18-24,Strong local support from Manchester area
+Team_113,20421.61,17.8,Up to £500,Greater Manchester,45+,Marketing spend was lower than expected
+Team_114,37242.69,3.75,£500+,North West,25-34,Merchandise overwhelmed warehouse stock
+Team_115,18653.47,39.46,Up to £250,Greater Manchester,35-44,"High ticket sales, but costs were too high"
+Team_116,22110.83,16.29,Up to £100,South East,18-24,Excellent youth engagement program
+Team_117,19757.02,16.09,Up to £250,Other UK,25-34,Merchandise overwhelmed warehouse stock
+Team_118,11819.25,22.26,Up to £100,Greater Manchester,<18,Strong local support from Manchester area
+Team_119,27999.76,19.81,Up to £500,Greater Manchester,25-34,Season ended with record profit
+Team_120,25263.53,17.24,£500+,London,45+,"High ticket sales, but costs were too high"
+Team_121,25537.22,7.1,Up to £100,South East,25-34,New sponsorship boosted revenue
+Team_122,13634.29,19.71,Up to £100,Greater Manchester,<18,"Great performance during finals, fans loved it"
+Team_123,29819.56,33.82,Up to £500,Greater Manchester,<18,"High ticket sales, but costs were too high"
+Team_124,10187.04,28.45,£500+,Greater Manchester,25-34,Marketing spend was lower than expected
+Team_125,24108.0,30.93,Up to £250,Greater Manchester,18-24,Marketing spend was lower than expected
+Team_126,35333.19,9.89,Up to £500,North West,<18,Strong local support from Manchester area
+Team_127,13066.25,5.1,Up to £100,Greater Manchester,35-44,Poor start but recovered nicely
+Team_128,16035.92,13.74,Up to £100,Greater Manchester,25-34,Marketing spend was lower than expected
+Team_129,20697.56,15.56,£500+,London,18-24,Marketing spend was lower than expected
+Team_130,16475.67,25.94,£500+,North West,45+,Season ended with record profit
+Team_131,9145.36,-1.92,Up to £100,Greater Manchester,18-24,Strong local support from Manchester area
+Team_132,20479.94,30.3,£500+,Greater Manchester,45+,"High ticket sales, but costs were too high"
+Team_133,12563.87,13.42,Up to £500,Greater Manchester,25-34,Poor start but recovered nicely
+Team_134,23315.15,10.73,£500+,North West,35-44,Merchandise overwhelmed warehouse stock
+Team_135,13564.03,4.88,Up to £500,Greater Manchester,25-34,"Great performance during finals, fans loved it"
+Team_136,30849.54,-1.55,Up to £500,Greater Manchester,35-44,Excellent youth engagement program
+Team_137,14517.23,23.23,Up to £500,Greater Manchester,45+,New sponsorship boosted revenue
+Team_138,17745.57,15.73,Up to £500,Greater Manchester,18-24,Marketing spend was lower than expected
+Team_139,25694.62,2.1,Up to £100,Greater Manchester,45+,Strong local support from Manchester area
+Team_140,11383.95,2.05,Up to £100,South East,25-34,Excellent youth engagement program
+Team_141,21592.22,11.64,Up to £250,North West,25-34,New sponsorship boosted revenue
+Team_142,29150.0,31.69,Up to £500,South East,25-34,New sponsorship boosted revenue
+Team_143,8747.62,12.4,Up to £250,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_144,21292.44,-0.03,Up to £500,North West,18-24,Merchandise overwhelmed warehouse stock
+Team_145,21819.18,12.54,£500+,North West,25-34,Merchandise overwhelmed warehouse stock
+Team_146,25472.76,12.27,Up to £100,Greater Manchester,25-34,Lost several matches due to injuries
+Team_147,11341.35,-11.97,Up to £500,London,35-44,Lost several matches due to injuries
+Team_148,10756.8,14.46,Up to £500,London,35-44,New sponsorship boosted revenue
+Team_149,23653.59,12.69,£500+,London,25-34,Merchandise overwhelmed warehouse stock
+Team_150,22078.89,21.96,Up to £250,Greater Manchester,25-34,Season ended with record profit
+Team_151,21753.45,33.49,Up to £500,Greater Manchester,18-24,Marketing spend was lower than expected
+Team_152,22425.14,26.27,£500+,North West,18-24,Excellent youth engagement program
+Team_153,15239.83,12.31,£500+,Greater Manchester,18-24,Excellent youth engagement program
+Team_154,21625.78,3.93,Up to £500,Greater Manchester,25-34,Lost several matches due to injuries
+Team_155,22051.51,40.73,Up to £500,North West,18-24,New sponsorship boosted revenue
+Team_156,14999.54,15.59,Up to £500,North West,45+,Strong local support from Manchester area
+Team_157,33060.42,15.14,£500+,Greater Manchester,25-34,"High ticket sales, but costs were too high"
+Team_158,23316.83,14.76,Up to £500,London,25-34,"High ticket sales, but costs were too high"
+Team_159,11660.88,16.98,Up to £100,Other UK,25-34,Lost several matches due to injuries
+Team_160,24595.88,13.56,£500+,Other UK,18-24,Strong local support from Manchester area
+Team_161,13177.23,9.26,Up to £500,Greater Manchester,25-34,Lost several matches due to injuries
+Team_162,25509.59,9.53,Up to £500,Greater Manchester,25-34,"High ticket sales, but costs were too high"
+Team_163,28110.17,14.67,Up to £250,Greater Manchester,25-34,Strong local support from Manchester area
+Team_164,14255.22,9.57,Up to £500,London,25-34,Merchandise overwhelmed warehouse stock
+Team_165,26743.63,7.87,Up to £250,North West,45+,New sponsorship boosted revenue
+Team_166,22889.47,16.06,Up to £500,Greater Manchester,35-44,Excellent youth engagement program
+Team_167,25754.42,12.45,Up to £100,South East,25-34,Season ended with record profit
+Team_168,33277.55,30.04,Up to £500,Greater Manchester,25-34,Poor start but recovered nicely
+Team_169,18282.28,-11.51,£500+,Greater Manchester,25-34,New sponsorship boosted revenue
+Team_170,14723.85,25.92,Up to £100,Greater Manchester,18-24,Merchandise overwhelmed warehouse stock
+Team_171,13773.4,27.46,£500+,North West,25-34,"High ticket sales, but costs were too high"
+Team_172,14289.33,-5.73,Up to £500,Greater Manchester,<18,Merchandise overwhelmed warehouse stock
+Team_173,19460.29,11.57,£500+,Greater Manchester,25-34,Lost several matches due to injuries
+Team_174,22388.06,11.29,£500+,North West,25-34,Strong local support from Manchester area
+Team_175,21936.84,0.92,Up to £500,North West,18-24,Excellent youth engagement program
+Team_176,25790.28,7.22,Up to £500,South East,45+,Marketing spend was lower than expected
+Team_177,20091.01,3.89,£500+,North West,45+,Lost several matches due to injuries
+Team_178,30174.74,32.52,Up to £500,Greater Manchester,35-44,New sponsorship boosted revenue
+Team_179,18147.4,24.36,Up to £250,North West,25-34,Lost several matches due to injuries
+Team_180,39041.18,27.72,Up to £500,Other UK,35-44,New sponsorship boosted revenue
+Team_181,24379.67,22.22,£500+,North West,18-24,Marketing spend was lower than expected
+Team_182,13999.9,3.71,£500+,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_183,12503.75,9.75,£500+,South East,18-24,Excellent youth engagement program
+Team_184,23377.31,19.89,Up to £500,South East,35-44,Season ended with record profit
+Team_185,18435.76,2.78,£500+,North West,18-24,Season ended with record profit
+Team_186,24998.0,22.13,Up to £100,South East,35-44,Poor start but recovered nicely
+Team_187,23312.66,12.6,Up to £500,Greater Manchester,45+,Merchandise overwhelmed warehouse stock
+Team_188,19490.2,11.25,Up to £100,Greater Manchester,18-24,"Great performance during finals, fans loved it"
+Team_189,14072.44,22.11,Up to £250,North West,25-34,Season ended with record profit
+Team_190,9396.07,19.44,Up to £250,North West,45+,Lost several matches due to injuries
+Team_191,16874.4,11.39,Up to £250,London,25-34,Merchandise overwhelmed warehouse stock
+Team_192,25994.79,26.59,Up to £500,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_193,21498.66,4.19,Up to £250,Greater Manchester,25-34,Strong local support from Manchester area
+Team_194,11279.83,21.16,Up to £500,London,25-34,Strong local support from Manchester area
+Team_195,21212.27,20.93,Up to £250,London,18-24,Merchandise overwhelmed warehouse stock
+Team_196,22697.22,11.9,Up to £250,North West,18-24,New sponsorship boosted revenue
+Team_197,13813.0,18.26,Up to £250,Greater Manchester,35-44,New sponsorship boosted revenue
+Team_198,21076.08,2.49,Up to £100,North West,25-34,Lost several matches due to injuries
+Team_199,20407.46,24.24,Up to £500,London,25-34,"Great performance during finals, fans loved it"
+Team_200,11999.21,13.15,Up to £500,Greater Manchester,25-34,"Great performance during finals, fans loved it"
+Team_201,22504.51,9.77,Up to £500,Other UK,25-34,Merchandise overwhelmed warehouse stock
+Team_202,23925.49,25.49,Up to £500,North West,35-44,"High ticket sales, but costs were too high"
+Team_203,27581.36,7.96,Up to £250,North West,45+,Strong local support from Manchester area
+Team_204,27376.61,0.92,£500+,North West,25-34,"Great performance during finals, fans loved it"
+Team_205,10356.31,-0.57,Up to £500,North West,35-44,Merchandise overwhelmed warehouse stock
+Team_206,13435.22,21.06,Up to £500,North West,35-44,Marketing spend was lower than expected
+Team_207,23605.25,2.2,Up to £100,Other UK,25-34,Poor start but recovered nicely
+Team_208,23596.5,32.55,Up to £250,North West,45+,Marketing spend was lower than expected
+Team_209,23605.33,-5.82,Up to £250,North West,18-24,Excellent youth engagement program
+Team_210,46969.12,31.96,Up to £250,London,18-24,Lost several matches due to injuries
+Team_211,23996.23,17.11,Up to £500,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_212,27948.96,14.03,Up to £500,London,25-34,Excellent youth engagement program
+Team_213,26678.01,9.55,Up to £500,North West,35-44,Season ended with record profit
+Team_214,24559.74,18.99,£500+,Greater Manchester,35-44,Excellent youth engagement program
+Team_215,17793.12,14.62,£500+,North West,18-24,Merchandise overwhelmed warehouse stock
+Team_216,25312.78,26.03,Up to £500,North West,35-44,"Great performance during finals, fans loved it"
+Team_217,14590.22,16.14,£500+,Other UK,25-34,Poor start but recovered nicely
+Team_218,18342.27,16.5,Up to £100,North West,25-34,Merchandise overwhelmed warehouse stock
+Team_219,16602.46,11.36,Up to £250,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_220,20573.12,14.43,Up to £100,Greater Manchester,45+,Lost several matches due to injuries
+Team_221,36202.61,18.08,Up to £500,Greater Manchester,<18,Lost several matches due to injuries
+Team_222,6929.14,-2.1,£500+,South East,25-34,Strong local support from Manchester area
+Team_223,24803.82,1.52,Up to £250,North West,35-44,Strong local support from Manchester area
+Team_224,8710.99,22.43,£500+,Greater Manchester,35-44,New sponsorship boosted revenue
+Team_225,16696.48,16.71,Up to £100,Other UK,35-44,"High ticket sales, but costs were too high"
+Team_226,27622.65,13.16,£500+,Greater Manchester,18-24,"Great performance during finals, fans loved it"
+Team_227,20449.96,15.18,Up to £250,Other UK,18-24,"Great performance during finals, fans loved it"
+Team_228,12455.79,18.48,Up to £100,North West,25-34,Excellent youth engagement program
+Team_229,14992.87,9.6,Up to £500,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_230,24757.18,7.22,Up to £250,North West,18-24,"Great performance during finals, fans loved it"
+Team_231,14887.43,16.96,Up to £250,London,18-24,"High ticket sales, but costs were too high"
+Team_232,21515.21,5.22,Up to £250,Other UK,45+,Season ended with record profit
+Team_233,20319.0,19.08,£500+,North West,<18,Strong local support from Manchester area
+Team_234,15438.8,-2.03,Up to £500,Greater Manchester,45+,Strong local support from Manchester area
+Team_235,35007.61,25.29,Up to £250,North West,35-44,Poor start but recovered nicely
+Team_236,24437.43,19.73,Up to £500,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_237,5824.0,17.56,Up to £500,Greater Manchester,18-24,"High ticket sales, but costs were too high"
+Team_238,21305.18,24.83,Up to £250,Other UK,<18,Strong local support from Manchester area
+Team_239,15367.49,31.65,Up to £500,Greater Manchester,35-44,"High ticket sales, but costs were too high"
+Team_240,25967.03,25.14,Up to £100,Greater Manchester,35-44,Marketing spend was lower than expected
+Team_241,14452.35,-3.41,Up to £250,North West,35-44,Season ended with record profit
+Team_242,19196.84,2.2,Up to £500,North West,18-24,"Great performance during finals, fans loved it"
+Team_243,23534.91,8.75,Up to £250,North West,35-44,Poor start but recovered nicely
+Team_244,26060.29,15.26,Up to £500,North West,35-44,Excellent youth engagement program
+Team_245,11597.93,20.18,Up to £500,South East,35-44,Strong local support from Manchester area
+Team_246,17658.49,7.74,Up to £100,Greater Manchester,35-44,Marketing spend was lower than expected
+Team_247,16675.38,16.87,Up to £500,Greater Manchester,35-44,"High ticket sales, but costs were too high"
+Team_248,15426.7,7.45,Up to £250,North West,25-34,Lost several matches due to injuries
+Team_249,32358.18,8.88,£500+,South East,18-24,Merchandise overwhelmed warehouse stock
+Team_250,22834.87,0.93,Up to £500,London,25-34,"Great performance during finals, fans loved it"
+Team_251,11173.81,5.77,£500+,North West,18-24,"Great performance during finals, fans loved it"
+Team_252,26425.03,1.48,Up to £500,London,25-34,Marketing spend was lower than expected
+Team_253,34855.09,5.24,Up to £100,Greater Manchester,25-34,"High ticket sales, but costs were too high"
+Team_254,27227.26,25.54,Up to £500,North West,18-24,New sponsorship boosted revenue
+Team_255,9364.41,5.51,£500+,Greater Manchester,25-34,"Great performance during finals, fans loved it"
+Team_256,16610.36,41.32,Up to £500,Greater Manchester,18-24,New sponsorship boosted revenue
+Team_257,28868.38,19.93,£500+,North West,35-44,Lost several matches due to injuries
+Team_258,15046.31,16.85,£500+,Other UK,45+,Marketing spend was lower than expected
+Team_259,23106.74,6.42,Up to £250,South East,18-24,"High ticket sales, but costs were too high"
+Team_260,25422.44,22.0,Up to £250,Greater Manchester,45+,"High ticket sales, but costs were too high"
+Team_261,13511.49,9.24,Up to £500,Greater Manchester,25-34,Season ended with record profit
+Team_262,19583.32,16.22,Up to £500,Greater Manchester,18-24,Merchandise overwhelmed warehouse stock
+Team_263,0.0,40.6,£500+,Greater Manchester,18-24,Strong local support from Manchester area
+Team_264,12829.29,14.04,£500+,Greater Manchester,25-34,Strong local support from Manchester area
+Team_265,18232.02,26.49,Up to £250,North West,35-44,Excellent youth engagement program
+Team_266,11265.52,7.97,Up to £250,Greater Manchester,35-44,Poor start but recovered nicely
+Team_267,31426.88,14.65,£500+,South East,18-24,Marketing spend was lower than expected
+Team_268,9989.01,32.71,Up to £250,Greater Manchester,18-24,Lost several matches due to injuries
+Team_269,16919.69,8.73,£500+,North West,25-34,"High ticket sales, but costs were too high"
+Team_270,20915.18,33.12,Up to £500,London,18-24,Merchandise overwhelmed warehouse stock
+Team_271,30088.91,22.08,Up to £500,North West,18-24,New sponsorship boosted revenue
+Team_272,9948.96,9.38,Up to £100,North West,18-24,Marketing spend was lower than expected
+Team_273,28142.15,21.32,Up to £500,North West,35-44,Excellent youth engagement program
+Team_274,20071.63,24.73,Up to £500,Greater Manchester,45+,Marketing spend was lower than expected
+Team_275,13129.44,21.22,Up to £500,London,25-34,Excellent youth engagement program
+Team_276,23234.72,-0.7,Up to £250,Greater Manchester,45+,"High ticket sales, but costs were too high"
+Team_277,21393.42,7.73,Up to £500,North West,25-34,Poor start but recovered nicely
+Team_278,15798.48,12.52,£500+,South East,25-34,Excellent youth engagement program
+Team_279,20488.61,14.26,Up to £250,South East,18-24,"High ticket sales, but costs were too high"
+Team_280,17302.8,21.21,Up to £100,South East,25-34,"High ticket sales, but costs were too high"
+Team_281,20794.62,16.78,Up to £100,North West,45+,Poor start but recovered nicely
+Team_282,24634.91,1.65,Up to £500,Greater Manchester,25-34,Strong local support from Manchester area
+Team_283,31102.12,18.8,Up to £500,Other UK,25-34,Marketing spend was lower than expected
+Team_284,11335.29,21.11,Up to £500,London,25-34,"Great performance during finals, fans loved it"
+Team_285,34931.23,20.6,Up to £250,North West,18-24,"Great performance during finals, fans loved it"
+Team_286,6335.39,25.81,Up to £250,North West,35-44,New sponsorship boosted revenue
+Team_287,18937.5,23.34,Up to £500,Greater Manchester,25-34,New sponsorship boosted revenue
+Team_288,24118.22,19.59,Up to £500,Other UK,25-34,"Great performance during finals, fans loved it"
+Team_289,21966.94,14.3,£500+,Greater Manchester,25-34,Lost several matches due to injuries
+Team_290,15641.1,-1.61,Up to £100,Greater Manchester,25-34,"Great performance during finals, fans loved it"
+Team_291,18543.14,19.3,Up to £500,North West,18-24,New sponsorship boosted revenue
+Team_292,16548.99,17.08,Up to £500,Greater Manchester,35-44,Merchandise overwhelmed warehouse stock
+Team_293,15874.45,17.72,Up to £500,South East,18-24,New sponsorship boosted revenue
+Team_294,25947.21,2.23,Up to £500,Greater Manchester,35-44,Lost several matches due to injuries
+Team_295,22499.11,4.19,Up to £500,London,35-44,Marketing spend was lower than expected
+Team_296,15149.63,25.53,£500+,Other UK,35-44,"Great performance during finals, fans loved it"
+Team_297,26297.2,14.6,Up to £100,North West,25-34,Poor start but recovered nicely
+Team_298,22151.1,21.82,Up to £100,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_299,25690.03,15.28,Up to £500,North West,18-24,"High ticket sales, but costs were too high"
+Team_300,24407.4,15.3,Up to £500,London,35-44,Lost several matches due to injuries
+Team_301,14197.03,24.38,Up to £250,Greater Manchester,18-24,New sponsorship boosted revenue
+Team_302,16078.73,9.84,Up to £100,Greater Manchester,25-34,Poor start but recovered nicely
+Team_303,25231.06,15.96,Up to £100,London,18-24,Excellent youth engagement program
+Team_304,24272.59,10.38,£500+,Greater Manchester,18-24,Strong local support from Manchester area
+Team_305,19853.69,10.66,Up to £250,Other UK,25-34,"Great performance during finals, fans loved it"
+Team_306,20821.29,11.91,Up to £250,Greater Manchester,18-24,Strong local support from Manchester area
+Team_307,28943.65,17.22,Up to £250,North West,35-44,Lost several matches due to injuries
+Team_308,15859.0,10.21,Up to £250,Greater Manchester,25-34,Excellent youth engagement program
+Team_309,23829.68,27.56,Up to £100,London,<18,Excellent youth engagement program
+Team_310,18584.65,6.05,Up to £500,Greater Manchester,25-34,Excellent youth engagement program
+Team_311,18476.23,13.13,Up to £100,South East,<18,"High ticket sales, but costs were too high"
+Team_312,27691.44,10.6,£500+,Other UK,18-24,Lost several matches due to injuries
+Team_313,25777.91,29.47,Up to £250,North West,35-44,Marketing spend was lower than expected
+Team_314,25694.57,16.97,Up to £500,Other UK,18-24,Strong local support from Manchester area
+Team_315,29138.35,25.32,£500+,North West,35-44,Marketing spend was lower than expected
+Team_316,20147.03,0.14,Up to £500,North West,<18,Poor start but recovered nicely
+Team_317,24773.67,17.67,Up to £500,North West,18-24,Season ended with record profit
+Team_318,17828.13,23.9,Up to £250,South East,35-44,Merchandise overwhelmed warehouse stock
+Team_319,22269.16,15.82,Up to £250,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_320,19089.0,25.65,Up to £500,North West,18-24,Marketing spend was lower than expected
+Team_321,20678.97,9.83,£500+,Greater Manchester,25-34,Season ended with record profit
+Team_322,24166.1,29.09,Up to £500,Greater Manchester,18-24,Season ended with record profit
+Team_323,14272.46,37.99,Up to £500,North West,35-44,"Great performance during finals, fans loved it"
+Team_324,34646.71,11.37,Up to £500,South East,25-34,Poor start but recovered nicely
+Team_325,12957.88,10.54,Up to £500,South East,35-44,Lost several matches due to injuries
+Team_326,11500.68,29.53,Up to £100,Greater Manchester,35-44,Season ended with record profit
+Team_327,28106.78,30.8,Up to £500,Other UK,25-34,New sponsorship boosted revenue
+Team_328,25541.64,9.77,£500+,Greater Manchester,45+,Merchandise overwhelmed warehouse stock
+Team_329,24368.84,10.8,Up to £250,Other UK,25-34,New sponsorship boosted revenue
+Team_330,24398.42,12.18,Up to £500,Greater Manchester,45+,Poor start but recovered nicely
+Team_331,19914.27,1.56,Up to £250,Greater Manchester,18-24,Season ended with record profit
+Team_332,13719.22,5.81,Up to £500,North West,35-44,Strong local support from Manchester area
+Team_333,20530.63,4.96,Up to £100,South East,25-34,Merchandise overwhelmed warehouse stock
+Team_334,15259.87,7.32,Up to £500,Greater Manchester,25-34,"Great performance during finals, fans loved it"
+Team_335,26825.84,14.65,£500+,North West,25-34,"Great performance during finals, fans loved it"
+Team_336,18970.6,17.34,Up to £250,North West,35-44,Excellent youth engagement program
+Team_337,14221.52,30.51,Up to £500,Greater Manchester,<18,"High ticket sales, but costs were too high"
+Team_338,17750.3,5.02,£500+,Greater Manchester,18-24,Season ended with record profit
+Team_339,22890.52,24.84,£500+,London,35-44,Poor start but recovered nicely
+Team_340,16053.93,12.86,Up to £250,South East,35-44,Merchandise overwhelmed warehouse stock
+Team_341,14244.46,14.51,Up to £250,North West,45+,"High ticket sales, but costs were too high"
+Team_342,21705.81,21.75,Up to £250,London,35-44,Poor start but recovered nicely
+Team_343,21714.77,3.77,£500+,North West,45+,Marketing spend was lower than expected
+Team_344,16451.4,18.82,£500+,South East,35-44,Season ended with record profit
+Team_345,16702.73,16.66,Up to £500,South East,18-24,Lost several matches due to injuries
+Team_346,21624.35,19.92,£500+,Greater Manchester,18-24,Lost several matches due to injuries
+Team_347,9863.41,17.89,Up to £500,London,35-44,Season ended with record profit
+Team_348,10147.75,39.55,Up to £500,Greater Manchester,25-34,Excellent youth engagement program
+Team_349,14970.89,8.62,Up to £100,Greater Manchester,<18,Excellent youth engagement program
+Team_350,18505.87,9.69,£500+,South East,25-34,Lost several matches due to injuries
+Team_351,22176.35,8.77,Up to £100,Greater Manchester,45+,Strong local support from Manchester area
+Team_352,30327.49,9.45,£500+,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_353,26003.62,8.63,£500+,Greater Manchester,25-34,Lost several matches due to injuries
+Team_354,18880.43,26.89,Up to £500,South East,25-34,Strong local support from Manchester area
+Team_355,19866.89,29.21,Up to £100,Greater Manchester,18-24,"High ticket sales, but costs were too high"
+Team_356,12982.29,9.29,Up to £250,North West,25-34,Strong local support from Manchester area
+Team_357,19870.41,6.68,Up to £250,London,25-34,"High ticket sales, but costs were too high"
+Team_358,17979.39,19.71,Up to £250,South East,18-24,Poor start but recovered nicely
+Team_359,22259.03,9.48,Up to £100,North West,35-44,New sponsorship boosted revenue
+Team_360,14209.38,21.33,£500+,North West,25-34,Poor start but recovered nicely
+Team_361,23635.43,17.03,Up to £500,North West,35-44,Lost several matches due to injuries
+Team_362,30729.17,-0.16,Up to £250,Greater Manchester,35-44,"High ticket sales, but costs were too high"
+Team_363,19238.68,30.48,Up to £250,Greater Manchester,18-24,Lost several matches due to injuries
+Team_364,22811.98,32.96,Up to £500,London,35-44,Season ended with record profit
+Team_365,24831.01,8.87,Up to £500,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_366,17191.46,11.12,Up to £500,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_367,21568.65,17.86,£500+,Greater Manchester,18-24,Lost several matches due to injuries
+Team_368,20088.15,18.34,Up to £500,South East,35-44,Merchandise overwhelmed warehouse stock
+Team_369,20683.73,21.59,£500+,Greater Manchester,25-34,Strong local support from Manchester area
+Team_370,14588.93,35.1,£500+,Other UK,18-24,Poor start but recovered nicely
+Team_371,20171.57,13.23,Up to £250,Greater Manchester,18-24,Strong local support from Manchester area
+Team_372,23485.99,7.02,£500+,North West,35-44,"Great performance during finals, fans loved it"
+Team_373,30158.01,1.21,Up to £100,Greater Manchester,35-44,"High ticket sales, but costs were too high"
+Team_374,26714.9,7.69,£500+,Greater Manchester,25-34,Season ended with record profit
+Team_375,35072.28,14.67,Up to £250,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_376,14628.57,32.95,£500+,North West,25-34,Season ended with record profit
+Team_377,26106.24,9.82,£500+,North West,35-44,New sponsorship boosted revenue
+Team_378,21283.39,17.24,£500+,South East,18-24,Lost several matches due to injuries
+Team_379,35328.62,14.84,£500+,North West,35-44,"High ticket sales, but costs were too high"
+Team_380,14341.91,26.88,Up to £250,South East,18-24,New sponsorship boosted revenue
+Team_381,14121.95,40.27,Up to £100,North West,25-34,Marketing spend was lower than expected
+Team_382,15804.25,9.69,Up to £500,Greater Manchester,18-24,Lost several matches due to injuries
+Team_383,5132.73,10.11,Up to £250,Greater Manchester,18-24,Strong local support from Manchester area
+Team_384,16319.71,25.44,Up to £500,Greater Manchester,25-34,Poor start but recovered nicely
+Team_385,14686.07,21.82,Up to £250,Greater Manchester,18-24,Merchandise overwhelmed warehouse stock
+Team_386,21052.76,33.47,£500+,North West,35-44,"Great performance during finals, fans loved it"
+Team_387,22392.29,20.84,Up to £500,North West,<18,"Great performance during finals, fans loved it"
+Team_388,33133.2,11.41,£500+,Greater Manchester,25-34,Strong local support from Manchester area
+Team_389,26652.97,20.91,Up to £100,Greater Manchester,25-34,Excellent youth engagement program
+Team_390,15961.67,26.09,£500+,Other UK,<18,"Great performance during finals, fans loved it"
+Team_391,13711.1,23.2,£500+,South East,18-24,Merchandise overwhelmed warehouse stock
+Team_392,23443.43,20.07,Up to £500,London,25-34,Strong local support from Manchester area
+Team_393,10758.37,25.67,Up to £500,London,25-34,"High ticket sales, but costs were too high"
+Team_394,32820.21,26.69,£500+,Greater Manchester,25-34,"Great performance during finals, fans loved it"
+Team_395,28256.08,28.82,Up to £250,North West,25-34,Season ended with record profit
+Team_396,16715.77,21.49,Up to £500,Other UK,25-34,Strong local support from Manchester area
+Team_397,8008.06,13.33,Up to £250,Greater Manchester,<18,Merchandise overwhelmed warehouse stock
+Team_398,29477.11,16.47,Up to £100,Greater Manchester,25-34,Season ended with record profit
+Team_399,19198.22,27.07,Up to £250,North West,45+,Lost several matches due to injuries
+Team_400,28664.71,6.83,Up to £100,Greater Manchester,25-34,Lost several matches due to injuries
+Team_401,8839.01,18.69,Up to £100,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_402,15804.37,11.07,Up to £100,South East,25-34,Season ended with record profit
+Team_403,20036.71,15.29,£500+,Greater Manchester,35-44,Poor start but recovered nicely
+Team_404,20328.86,27.78,Up to £500,Greater Manchester,35-44,Lost several matches due to injuries
+Team_405,16849.54,16.91,£500+,Other UK,25-34,Poor start but recovered nicely
+Team_406,24359.95,15.46,Up to £500,North West,45+,"High ticket sales, but costs were too high"
+Team_407,12526.66,1.4,Up to £250,Greater Manchester,18-24,Strong local support from Manchester area
+Team_408,19003.34,22.46,Up to £500,North West,<18,New sponsorship boosted revenue
+Team_409,20842.07,21.45,Up to £500,London,35-44,Merchandise overwhelmed warehouse stock
+Team_410,23601.07,36.63,Up to £100,Other UK,35-44,Strong local support from Manchester area
+Team_411,24981.3,11.92,Up to £500,North West,18-24,Merchandise overwhelmed warehouse stock
+Team_412,12127.51,17.19,Up to £250,South East,18-24,Season ended with record profit
+Team_413,9261.2,17.49,Up to £500,North West,<18,"High ticket sales, but costs were too high"
+Team_414,28943.74,30.77,Up to £500,Other UK,18-24,Marketing spend was lower than expected
+Team_415,22326.2,14.05,Up to £250,London,35-44,"Great performance during finals, fans loved it"
+Team_416,14760.59,17.79,Up to £100,South East,25-34,Merchandise overwhelmed warehouse stock
+Team_417,30858.06,21.08,£500+,North West,25-34,Merchandise overwhelmed warehouse stock
+Team_418,20809.72,16.87,Up to £500,Other UK,25-34,Season ended with record profit
+Team_419,28255.08,10.54,Up to £100,London,<18,Poor start but recovered nicely
+Team_420,20472.63,16.94,£500+,Greater Manchester,18-24,Strong local support from Manchester area
+Team_421,34425.24,25.74,Up to £100,South East,25-34,Marketing spend was lower than expected
+Team_422,32287.39,4.73,Up to £500,North West,45+,Excellent youth engagement program
+Team_423,18257.25,16.33,£500+,South East,35-44,"Great performance during finals, fans loved it"
+Team_424,26801.0,8.0,Up to £250,North West,<18,New sponsorship boosted revenue
+Team_425,24517.63,26.95,Up to £100,London,35-44,Excellent youth engagement program
+Team_426,29580.42,-0.23,Up to £100,Greater Manchester,35-44,Strong local support from Manchester area
+Team_427,13245.54,9.41,Up to £250,North West,35-44,"Great performance during finals, fans loved it"
+Team_428,24802.36,18.77,Up to £100,North West,25-34,Merchandise overwhelmed warehouse stock
+Team_429,27408.97,30.66,Up to £500,North West,25-34,New sponsorship boosted revenue
+Team_430,7688.82,14.34,Up to £100,Greater Manchester,25-34,Poor start but recovered nicely
+Team_431,11717.19,9.45,Up to £500,Greater Manchester,18-24,Marketing spend was lower than expected
+Team_432,5725.37,33.81,£500+,Greater Manchester,18-24,Poor start but recovered nicely
+Team_433,18114.15,0.52,£500+,North West,18-24,"High ticket sales, but costs were too high"
+Team_434,25022.8,-6.99,Up to £500,North West,25-34,Season ended with record profit
+Team_435,30516.5,19.4,Up to £250,London,35-44,"Great performance during finals, fans loved it"
+Team_436,20518.66,9.98,Up to £500,North West,25-34,Poor start but recovered nicely
+Team_437,31400.31,4.79,Up to £500,Other UK,18-24,Excellent youth engagement program
+Team_438,10339.29,22.08,Up to £500,South East,45+,Season ended with record profit
+Team_439,8076.32,17.44,Up to £100,Greater Manchester,45+,Poor start but recovered nicely
+Team_440,19611.17,9.36,£500+,Greater Manchester,35-44,Lost several matches due to injuries
+Team_441,22688.46,2.2,Up to £500,South East,45+,"High ticket sales, but costs were too high"
+Team_442,19771.14,23.72,Up to £250,North West,25-34,Strong local support from Manchester area
+Team_443,5527.91,21.5,Up to £250,North West,45+,Marketing spend was lower than expected
+Team_444,19376.16,14.01,Up to £500,North West,18-24,"High ticket sales, but costs were too high"
+Team_445,10868.71,33.47,£500+,London,25-34,Season ended with record profit
+Team_446,24687.71,4.3,Up to £500,North West,18-24,Lost several matches due to injuries
+Team_447,22566.19,-0.26,£500+,Greater Manchester,18-24,"Great performance during finals, fans loved it"
+Team_448,13420.84,8.08,Up to £100,Other UK,18-24,Excellent youth engagement program
+Team_449,16402.93,14.54,Up to £500,South East,25-34,Marketing spend was lower than expected
+Team_450,12585.51,17.43,Up to £500,Greater Manchester,35-44,Marketing spend was lower than expected
+Team_451,19561.25,12.59,Up to £100,North West,25-34,"High ticket sales, but costs were too high"
+Team_452,26686.0,18.52,Up to £250,South East,18-24,Season ended with record profit
+Team_453,13099.92,2.48,£500+,Greater Manchester,35-44,"Great performance during finals, fans loved it"
+Team_454,23528.33,29.44,Up to £100,North West,25-34,Merchandise overwhelmed warehouse stock
+Team_455,16288.2,14.18,Up to £500,North West,25-34,Lost several matches due to injuries
+Team_456,14449.89,26.17,Up to £250,Other UK,35-44,Merchandise overwhelmed warehouse stock
+Team_457,19250.79,18.43,Up to £100,Greater Manchester,18-24,Excellent youth engagement program
+Team_458,12753.3,19.57,Up to £250,South East,25-34,"Great performance during finals, fans loved it"
+Team_459,16124.45,20.7,£500+,South East,45+,"Great performance during finals, fans loved it"
+Team_460,11614.85,19.48,£500+,Greater Manchester,18-24,Lost several matches due to injuries
+Team_461,33753.08,21.43,£500+,Greater Manchester,25-34,New sponsorship boosted revenue
+Team_462,20246.84,28.29,Up to £500,Greater Manchester,35-44,Merchandise overwhelmed warehouse stock
+Team_463,15101.92,16.97,Up to £100,Greater Manchester,35-44,Poor start but recovered nicely
+Team_464,21497.86,22.09,Up to £500,Greater Manchester,18-24,Marketing spend was lower than expected
+Team_465,19213.7,14.1,Up to £500,London,18-24,New sponsorship boosted revenue
+Team_466,18453.21,29.4,£500+,Greater Manchester,<18,Poor start but recovered nicely
+Team_467,24299.17,8.24,Up to £100,South East,25-34,Season ended with record profit
+Team_468,25302.55,33.01,Up to £500,Greater Manchester,25-34,Lost several matches due to injuries
+Team_469,16286.49,14.6,Up to £250,Greater Manchester,18-24,Season ended with record profit
+Team_470,15969.27,0.69,Up to £250,Greater Manchester,45+,Marketing spend was lower than expected
+Team_471,18074.64,16.28,Up to £500,Greater Manchester,25-34,Strong local support from Manchester area
+Team_472,3886.55,8.19,Up to £500,London,18-24,Poor start but recovered nicely
+Team_473,9393.66,23.41,Up to £250,North West,25-34,New sponsorship boosted revenue
+Team_474,29568.12,8.47,Up to £250,Greater Manchester,35-44,Poor start but recovered nicely
+Team_475,31514.77,10.54,Up to £500,North West,18-24,Poor start but recovered nicely
+Team_476,18256.75,-3.9,£500+,Greater Manchester,18-24,Lost several matches due to injuries
+Team_477,24035.9,10.48,£500+,Greater Manchester,35-44,Season ended with record profit
+Team_478,22178.75,-9.24,£500+,Greater Manchester,25-34,Merchandise overwhelmed warehouse stock
+Team_479,41552.17,-0.84,£500+,Other UK,25-34,Strong local support from Manchester area
+Team_480,27837.02,22.6,Up to £250,Greater Manchester,25-34,Lost several matches due to injuries
+Team_481,19104.58,22.86,Up to £500,London,<18,Excellent youth engagement program
+Team_482,13311.22,19.25,Up to £500,Greater Manchester,18-24,Lost several matches due to injuries
+Team_483,8754.88,5.33,Up to £250,Greater Manchester,25-34,Marketing spend was lower than expected
+Team_484,21424.25,14.52,£500+,North West,18-24,Strong local support from Manchester area
+Team_485,14705.54,14.96,Up to £100,North West,<18,"Great performance during finals, fans loved it"
+Team_486,10044.22,3.42,£500+,Greater Manchester,35-44,Excellent youth engagement program
+Team_487,15473.99,30.03,Up to £500,Greater Manchester,45+,"High ticket sales, but costs were too high"
+Team_488,12429.16,23.77,Up to £500,North West,35-44,Lost several matches due to injuries
+Team_489,31809.99,12.79,Up to £500,North West,35-44,Poor start but recovered nicely
+Team_490,26171.48,15.27,£500+,North West,18-24,Merchandise overwhelmed warehouse stock
+Team_491,19944.19,17.08,Up to £500,Other UK,45+,"Great performance during finals, fans loved it"
+Team_492,30359.61,-5.42,Up to £500,Greater Manchester,18-24,Lost several matches due to injuries
+Team_493,20541.58,12.53,Up to £100,Greater Manchester,45+,Lost several matches due to injuries
+Team_494,13971.01,8.18,Up to £500,North West,45+,New sponsorship boosted revenue
+Team_495,30661.87,4.98,Up to £250,Greater Manchester,35-44,New sponsorship boosted revenue
+Team_496,23772.37,12.19,Up to £500,North West,45+,"Great performance during finals, fans loved it"
+Team_497,12739.28,32.98,Up to £500,North West,25-34,Season ended with record profit
+Team_498,18667.63,21.41,Up to £500,Greater Manchester,18-24,New sponsorship boosted revenue
+Team_499,13870.67,9.29,Up to £100,North West,25-34,Poor start but recovered nicely
+Team_500,10320.4,20.73,Up to £100,North West,25-34,Excellent youth engagement program
